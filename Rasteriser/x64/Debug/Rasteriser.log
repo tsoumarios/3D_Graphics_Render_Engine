@@ -1,0 +1,6 @@
+﻿  Rasteriser.cpp
+D:\Graphics\3D_Graphics_Render_Engine\Rasteriser\Rasteriser.cpp(92,59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Graphics\3D_Graphics_Render_Engine\Rasteriser\Rasteriser.cpp(92,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Graphics\3D_Graphics_Render_Engine\Rasteriser\Rasteriser.cpp(101,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Graphics\3D_Graphics_Render_Engine\Rasteriser\Rasteriser.cpp(102,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Rasteriser.vcxproj -> D:\Graphics\3D_Graphics_Render_Engine\x64\Debug\Rasteriser.exe
